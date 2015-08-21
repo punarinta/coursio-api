@@ -1,2 +1,2 @@
 # coursio-api
-Collection of Coursio 3 API wrappers
+Collection of wrappers for Coursio 3.x API.
